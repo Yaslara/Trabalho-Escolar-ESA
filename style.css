@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
 }
 
 .cabecalho-imagem{
@@ -34,7 +34,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 10px 0;
 }
 
 .escola-div-conteudo{
@@ -50,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 180px;
 }
 
 .estudante-icone{
@@ -70,7 +70,7 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 25% 25% 25%;
 }
 
 .rodape{
